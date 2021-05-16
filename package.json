@@ -57,7 +57,7 @@
     "prettier": "^2.2.1"
   },
   "lint-staged": {
-    "**/*.{js,json}": [
+    "**/*.js": [
       "eslint --ext .js --fix",
       "prettier --write"
     ]
