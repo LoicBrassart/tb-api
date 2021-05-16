@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 app.use('/', (req, res) => {
-  res.status(404).send('Coming soon!');
+  res.status(404).send('Coming soonish!');
 });
 
 app.listen(5050, () => {
