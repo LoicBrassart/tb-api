@@ -7,14 +7,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-    "lint": "eslint --ext .js --fix .",
+    "lint": "eslint \"./**/*.js\" --fix .",
     "prettify": "prettier --write ."
   },
   "eslintConfig": {
     "extends": "airbnb-base",
     "env": {
       "es6": true,
-      "browser": true
+      "node": true
     },
     "rules": {
       "brace-style": [
