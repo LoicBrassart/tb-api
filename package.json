@@ -39,7 +39,7 @@
     "prettier": "^2.2.1"
   },
   "lint-staged": {
-    "src/**/*.{js,jsx}": [
+    "**/*.{js,jsx}": [
       "eslint --ext .js,.json --fix",
       "prettier --write"
     ]
