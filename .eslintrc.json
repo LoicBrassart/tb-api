@@ -11,11 +11,8 @@
     "ecmaVersion": 12,
     "sourceType": "module"
   },
-  "plugins": ["react"],
   "rules": {
     "indent": ["error", 2],
-    "linebreak-style": ["error", "unix"],
-    "react/jsx-props-no-spreading": "off",
-    "react/react-in-jsx-scope": "off"
+    "linebreak-style": ["error", "unix"]
   }
 }
