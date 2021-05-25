@@ -4,6 +4,7 @@ const { db } = require('./conf');
 
 const app = express();
 app.use(cors());
+app.use(express.static('public'));
 
 app.get('/characters', async (req, res) => {
   const { needle } = req.query;
@@ -14,7 +15,18 @@ app.get('/characters', async (req, res) => {
   }
 
   const [rows] = await db.query(query, [`%${needle}%`]);
-  res.send(rows);
+
+  const updatedRows = rows.map((row) => {
+    const alteredName = row.name
+      .toLowerCase()
+      .replace(' ', '')
+      .replace('^', '')
+      .replace("'", '');
+    const imgFolder = `/img/adventurers/${alteredName}`;
+    return { ...row, imgFolder };
+  });
+
+  res.send(updatedRows);
 });
 
 app.use('/', (req, res) => {
