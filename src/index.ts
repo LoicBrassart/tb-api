@@ -1,28 +1,49 @@
-// récupérer la librairie Express
 import express from "express";
+// récupérer personnages depuis le fichier JSON
+import { characters } from "./fake.json";
 
-// créer mon application avec une config minimale
 const app = express();
 
-// créer une route: "Si je reçois un GET sur "/", j'exécute la fonction associée
-app.get("/", (req, res) => {
-  console.log("Cuhis la !");
-  res.send("OK");
+// On écrit le type Character
+type Character = {
+  id: number;
+  name: string;
+  tier: string;
+  weapon: string | null;
+  attribute: string | null;
+  species: string | null;
+  lambdaForm: number | null;
+  originalForm: number | null;
+  gender: string;
+  artist: any;
+  availability: string[];
+  jobNames: any;
+  japaneseName: string;
+  versionAdded: string | null;
+};
+
+// ajouter, modifier, suppriomer, lire/recuperer
+// CRUD: Create, Read, Update, Delete
+
+// Sur GET /characters : renvoyer tous les persos
+app.get("/characters", (req, res) => {
+  const results = characters.map((char: Character) => {
+    return {
+      id: char.id,
+      name: char.name,
+    };
+  });
+  res.json(results);
 });
 
-// mon app doit ecouter le port 3000
+// Sur GET /characters/1 : renvoyer le perso n°1
+app.get("/characters/1", (req, res) => {
+  const results = characters.filter((char: Character) => {
+    return char.id === 1;
+  });
+  res.json(results);
+});
+
 app.listen(3000, () => {
   console.log("API available !");
 });
-
-// 127.0.0.1 = "chez moi" =  "localhost"
-// localhost
-// 127.0.0.1:1
-
-// - :5173 front react
-// - :3000 back express
-// - :8686 bdd postgresql
-
-// Ecrire une fonction
-//   function toto() {}
-//   const toto = ()=>{}

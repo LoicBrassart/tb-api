@@ -1,0 +1,4444 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "36AIS",
+      "tier": "SS",
+      "weapon": "Staff",
+      "attribute": "Healing",
+      "species": "Oxsecian",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "After completing Story 34:",
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "36AIS the Forsaken",
+        "36AIS the Allmother",
+        "36AIS the Lifepulse"
+      ],
+      "japaneseName": "36AIS",
+      "versionAdded": null
+    },
+    {
+      "id": 2,
+      "name": "54B2",
+      "tier": "Z",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Oxsecian",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "After completing Story 34:",
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "King 54B2",
+        "King 54B2 the Unforgiving",
+        "King 54B2 the Unrelenting"
+      ],
+      "japaneseName": "54B2",
+      "versionAdded": null
+    },
+    {
+      "id": 3,
+      "name": "A'merpact",
+      "tier": "A",
+      "weapon": "Staff",
+      "attribute": "Ice",
+      "species": "Lizardfolk",
+      "lambdaForm": 4,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "A'merpact the Frostbreath",
+        "A'merpact the Blizzardbreath",
+        "A'merpact the Polarbreath"
+      ],
+      "japaneseName": "アメリパクト Ameripakuto",
+      "versionAdded": null
+    },
+    {
+      "id": 4,
+      "name": "A'merpact ^",
+      "tier": "SS",
+      "weapon": "Staff",
+      "attribute": "Ice",
+      "species": "Lizardfolk",
+      "lambdaForm": null,
+      "originalForm": 3,
+      "gender": "Male",
+      "artist": "Yoshitomo Ikawa",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "A'merpact Λ"
+      ],
+      "japaneseName": "アメリパクト・Λ Ameripakuto Λ",
+      "versionAdded": "4.3.0"
+    },
+    {
+      "id": 5,
+      "name": "A'misandra",
+      "tier": "SS",
+      "weapon": "Staff",
+      "attribute": "Healing",
+      "species": "Lizardfolk",
+      "lambdaForm": 6,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)",
+        "Limited-time Starter Character"
+      ],
+      "jobNames": [
+        "A'misandra the Nurse",
+        "A'misandra the Medic",
+        "A'misandra the Saint"
+      ],
+      "japaneseName": "アミ・サンドラ Ami sandora",
+      "versionAdded": null
+    },
+    {
+      "id": 6,
+      "name": "A'misandra ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Healing",
+      "species": "Lizardfolk",
+      "lambdaForm": null,
+      "originalForm": 5,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "アミ・サンドラ・Λ Ami sandora Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 7,
+      "name": "Alika",
+      "tier": "S",
+      "weapon": "Bow",
+      "attribute": "Lightning",
+      "species": "Human",
+      "lambdaForm": 8,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Alika the Conflicted",
+        "Alika the Afflicted",
+        "Alika the Eternal Huntress"
+      ],
+      "japaneseName": "アリカ Arika",
+      "versionAdded": null
+    },
+    {
+      "id": 8,
+      "name": "Alika ^",
+      "tier": "Z",
+      "weapon": "Sword",
+      "attribute": "Lightning",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": 7,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "アリカ・Λ Arika Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 9,
+      "name": "Amazora",
+      "tier": "B",
+      "weapon": "Sword",
+      "attribute": "Fire",
+      "species": "Human",
+      "lambdaForm": 10,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Amazora the Airy",
+        "Amazora the Dancer",
+        "Amazora the Ethereal"
+      ],
+      "japaneseName": "アマゾン Amazon",
+      "versionAdded": null
+    },
+    {
+      "id": 10,
+      "name": "Amazora ^",
+      "tier": "Z",
+      "weapon": "Sword",
+      "attribute": "Fire",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": 9,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "アマゾン・Λ Amazon Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 11,
+      "name": "Amimari",
+      "tier": "SS",
+      "weapon": "Staff",
+      "attribute": "Healing",
+      "species": "Beastfolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)",
+        "Limited-time Starter Character"
+      ],
+      "jobNames": [
+        "Amimari the Nurse",
+        "Amimari the Medic",
+        "Amimari the Saint"
+      ],
+      "japaneseName": "アミ・マリー Ami marī",
+      "versionAdded": null
+    },
+    {
+      "id": 12,
+      "name": "Amina",
+      "tier": "SS",
+      "weapon": "Staff",
+      "attribute": "Healing",
+      "species": "Human",
+      "lambdaForm": 13,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)",
+        "Limited-time Starter Character"
+      ],
+      "jobNames": [
+        "Amina the Nurse",
+        "Amina the Medic",
+        "Amina the Saint"
+      ],
+      "japaneseName": "アミ・ナ Ami na",
+      "versionAdded": null
+    },
+    {
+      "id": 13,
+      "name": "Amina ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Healing",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": 12,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Amina Λ"
+      ],
+      "japaneseName": "アミ・ナ・Λ Ami na Λ",
+      "versionAdded": "4.2.0"
+    },
+    {
+      "id": 14,
+      "name": "Andelucia",
+      "tier": "Z",
+      "weapon": "Spear",
+      "attribute": "Graviton",
+      "species": "Beastfolk",
+      "lambdaForm": 15,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Takatoshi Goto",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Andelucia the Speardancer",
+        "Andelucia the Enigma",
+        "Andelucia the Exile"
+      ],
+      "japaneseName": "アンドルシア Andorushia",
+      "versionAdded": null
+    },
+    {
+      "id": 15,
+      "name": "Andelucia ^",
+      "tier": "Z",
+      "weapon": "Spear",
+      "attribute": "Graviton",
+      "species": "Beastfolk",
+      "lambdaForm": null,
+      "originalForm": 14,
+      "gender": "Female",
+      "artist": null,
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Andelucia Λ"
+      ],
+      "japaneseName": "アンドルシア・Λ Andorushia・Λ",
+      "versionAdded": "5.2.0"
+    },
+    {
+      "id": 16,
+      "name": "Annu",
+      "tier": "Z",
+      "weapon": "Bow",
+      "attribute": "Ice",
+      "species": "Wild Beast",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": null,
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Annu the Ice Dancer",
+        "Annu the Priestess",
+        "Annu the Frozen"
+      ],
+      "japaneseName": "アンヌ An'nu",
+      "versionAdded": "4.6.0"
+    },
+    {
+      "id": 17,
+      "name": "Arionne",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Isamu Kamikokuryo",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Witch of the West Arionne",
+        "Queen of the North Arionne",
+        "Doctor Arionne"
+      ],
+      "japaneseName": "アリオーネ Ariōne",
+      "versionAdded": "5.0.0"
+    },
+    {
+      "id": 18,
+      "name": "Ashe",
+      "tier": "Z",
+      "weapon": "Spear",
+      "attribute": "Moon",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Max Berthelot",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Ashe the Guard",
+        "Ashe the Spearman",
+        "Pulsar Ashe"
+      ],
+      "japaneseName": "アッシュ Asshu",
+      "versionAdded": "4.8.0"
+    },
+    {
+      "id": 19,
+      "name": "Ba'gunar",
+      "tier": "B",
+      "weapon": "Sword",
+      "attribute": "Lightning",
+      "species": "Lizardfolk",
+      "lambdaForm": 20,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Story 4|10 (if not owned)",
+        "After completing Chapter 4:",
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Ba'gunar the Highborn",
+        "Ba'gunar the Regal",
+        "Ba'gunar the August"
+      ],
+      "japaneseName": "バッグナー Baggunā",
+      "versionAdded": null
+    },
+    {
+      "id": 20,
+      "name": "Ba'gunar ^",
+      "tier": "S",
+      "weapon": "Sword",
+      "attribute": "Photon",
+      "species": "Lizardfolk",
+      "lambdaForm": null,
+      "originalForm": 19,
+      "gender": "Male",
+      "artist": null,
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Ba'gunar Λ"
+      ],
+      "japaneseName": "バッグナー・Λ Baggunā・Λ",
+      "versionAdded": "5.2.0"
+    },
+    {
+      "id": 21,
+      "name": "Bahamut",
+      "tier": "S",
+      "weapon": "Staff",
+      "attribute": "Fire",
+      "species": "Dragon",
+      "lambdaForm": 22,
+      "originalForm": null,
+      "gender": "Unisex",
+      "artist": "Hideo Minaba",
+      "availability": [
+        "Bahamut Descended",
+        "Bahamut Evolved",
+        "Bahamut Ultra"
+      ],
+      "jobNames": [
+        "Bahamut",
+        "Neo Bahamut",
+        "Bahamut Omega"
+      ],
+      "japaneseName": "バハムート Bahamūto",
+      "versionAdded": null
+    },
+    {
+      "id": 22,
+      "name": "Bahamut ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Fire",
+      "species": "Dragon",
+      "lambdaForm": null,
+      "originalForm": 21,
+      "gender": "Unisex",
+      "artist": "Hideo Minaba",
+      "availability": [
+        "Bahamut Recoded",
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "バハムート・Λ Bahamūto Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 23,
+      "name": "Bahl",
+      "tier": "B",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": 24,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)",
+        "Starter Character"
+      ],
+      "jobNames": [
+        "Bahl the Dark Duelist",
+        "Bahl the Dark Warrior",
+        "Bahl the Dark Hero"
+      ],
+      "japaneseName": "バル Baru",
+      "versionAdded": null
+    },
+    {
+      "id": 24,
+      "name": "Bahl ^",
+      "tier": "S",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": 23,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Bahl Λ"
+      ],
+      "japaneseName": "バル・Λ Baru Λ",
+      "versionAdded": "4.3.0"
+    },
+    {
+      "id": 25,
+      "name": "Bajanna",
+      "tier": "SS",
+      "weapon": "Spear",
+      "attribute": null,
+      "species": "Beastfolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Bajanna the Medium",
+        "Bajanna the Spiritbinder",
+        "Bajanna the Supernaturalist"
+      ],
+      "japaneseName": "バハンナ Bahan'na",
+      "versionAdded": null
+    },
+    {
+      "id": 26,
+      "name": "Beau'ne",
+      "tier": "Z",
+      "weapon": "Sword",
+      "attribute": "Photon",
+      "species": "Lizardfolk",
+      "lambdaForm": 27,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Takatoshi Goto",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Beau'ne the Glittering",
+        "Beau'ne the Radiant",
+        "Beau'ne the Penitent"
+      ],
+      "japaneseName": "ボーヌ Bōnu",
+      "versionAdded": null
+    },
+    {
+      "id": 27,
+      "name": "Beau'ne ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Photon",
+      "species": "Lizardfolk",
+      "lambdaForm": null,
+      "originalForm": 26,
+      "gender": "Female",
+      "artist": null,
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Beau'ne Λ"
+      ],
+      "japaneseName": "ボーヌ・Λ Bōnu・Λ",
+      "versionAdded": "5.2.0"
+    },
+    {
+      "id": 28,
+      "name": "Bonna",
+      "tier": "S",
+      "weapon": "Staff",
+      "attribute": "Remedy",
+      "species": "Beastfolk",
+      "lambdaForm": 29,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Bonna the Idol",
+        "Bonna the Lyricist",
+        "Bonna the Punk Rocker"
+      ],
+      "japaneseName": "ボンナ Bon'na",
+      "versionAdded": null
+    },
+    {
+      "id": 29,
+      "name": "Bonna ^",
+      "tier": "Z",
+      "weapon": "Bow",
+      "attribute": null,
+      "species": "Beastfolk",
+      "lambdaForm": null,
+      "originalForm": 28,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "ボンナ・Λ Bon'na Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 30,
+      "name": "Burbaba",
+      "tier": "A",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Beastfolk",
+      "lambdaForm": 31,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Burbaba the Punching Bag",
+        "Burbaba the Iron-Headed",
+        "Burbaba the Punch Drunk"
+      ],
+      "japaneseName": "ブルババ Burubaba",
+      "versionAdded": null
+    },
+    {
+      "id": 31,
+      "name": "Burbaba ^",
+      "tier": "SS",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Beastfolk",
+      "lambdaForm": null,
+      "originalForm": 30,
+      "gender": "Male",
+      "artist": null,
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Burbaba Λ"
+      ],
+      "japaneseName": "ブルババ・Λ Burubaba Λ",
+      "versionAdded": "4.2.0"
+    },
+    {
+      "id": 32,
+      "name": "Calista",
+      "tier": "S",
+      "weapon": "Staff",
+      "attribute": "Healing",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "The Last Story (Alternate Fate, Perfect Fate)"
+      ],
+      "jobNames": [
+        "Calista the Heiress",
+        "Calista the Countess",
+        "Calista the Regal"
+      ],
+      "japaneseName": "カナン Kanan",
+      "versionAdded": null
+    },
+    {
+      "id": 33,
+      "name": "Camellia",
+      "tier": "SS",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": 34,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Nakaba Suzuki",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fellowship",
+        "Pact of Fate (Energy/Coins)"
+      ],
+      "jobNames": [
+        "Camellia the Pleasure Seeker",
+        "Camellia the Fallen",
+        "Camellia the Hedonist"
+      ],
+      "japaneseName": "ツバキ Tsubaki",
+      "versionAdded": null
+    },
+    {
+      "id": 34,
+      "name": "Camellia ^",
+      "tier": "Z",
+      "weapon": "Spear",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": 33,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "ツバキ・Λ Tsubaki Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 35,
+      "name": "Captive Golem",
+      "tier": "S",
+      "weapon": null,
+      "attribute": null,
+      "species": "Wild Beast",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Unisex",
+      "artist": null,
+      "availability": [
+        "The Captive Golem"
+      ],
+      "jobNames": [
+        "Captive Golem",
+        "Golem of Creation",
+        "Golem of Destruction"
+      ],
+      "japaneseName": "囚われのゴーレム Toraware no gōremu",
+      "versionAdded": null
+    },
+    {
+      "id": 36,
+      "name": "Chirol",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Graviton",
+      "species": "Machine",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Unisex",
+      "artist": null,
+      "availability": [
+        "Limited-time Pact of Truth and Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Guardian Chirol",
+        "Guardian Chirol DNA",
+        "Guardian Chirol RNA"
+      ],
+      "japaneseName": "チロル Chiroru",
+      "versionAdded": "5.4.0"
+    },
+    {
+      "id": 37,
+      "name": "Clara",
+      "tier": "SS",
+      "weapon": "Spear",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": 38,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Yoshitomo Ikawa",
+      "availability": [
+        "Vengeful Heart"
+      ],
+      "jobNames": [
+        "Downfall Clara",
+        "Dragon Knight Clara",
+        "Noir Clara"
+      ],
+      "japaneseName": "クララ Kurara",
+      "versionAdded": "4.4.0"
+    },
+    {
+      "id": 38,
+      "name": "Clara ^",
+      "tier": "Z",
+      "weapon": "Spear",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": 37,
+      "gender": "Female",
+      "artist": "Yoshitomo Ikawa",
+      "availability": [
+        "Recode DNA",
+        "Limited-time Pact of Truth and Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Clara Λ"
+      ],
+      "japaneseName": "クララ・Λ Kurara・Λ",
+      "versionAdded": "4.4.0"
+    },
+    {
+      "id": 39,
+      "name": "Czekras",
+      "tier": "SS",
+      "weapon": "Sword",
+      "attribute": "Ice",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Czekras the Preemptive",
+        "Czekras the Swift",
+        "Czekras the Striker"
+      ],
+      "japaneseName": "チェクラス Chekurasu",
+      "versionAdded": null
+    },
+    {
+      "id": 40,
+      "name": "Dahlia",
+      "tier": "Z",
+      "weapon": "Sword",
+      "attribute": "Moon",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Yoshitomo Ikawa",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Dahlia the Impish",
+        "Dahlia the Moonlit",
+        "Vamp Dahlia"
+      ],
+      "japaneseName": "ダリア Daria",
+      "versionAdded": "4.8.0"
+    },
+    {
+      "id": 41,
+      "name": "Daiana",
+      "tier": "A",
+      "weapon": "Staff",
+      "attribute": "Fire",
+      "species": "Stonefolk",
+      "lambdaForm": 42,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Daiana the Firedrinker",
+        "Daiana the Firemane",
+        "Daiana the Firemantle"
+      ],
+      "japaneseName": "ダイアナ Daiana",
+      "versionAdded": null
+    },
+    {
+      "id": 42,
+      "name": "Daiana ^",
+      "tier": "SS",
+      "weapon": "Staff",
+      "attribute": "Fire",
+      "species": "Stonefolk",
+      "lambdaForm": null,
+      "originalForm": 41,
+      "gender": "Female",
+      "artist": "Yoshitomo Ikawa",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Daiana Λ"
+      ],
+      "japaneseName": "ダイアナ・Λ Daiana Λ",
+      "versionAdded": "4.1.1"
+    },
+    {
+      "id": 43,
+      "name": "Djagos",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Fire",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": null,
+      "availability": [
+        "Limited-time Pact of Truth and Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Guardian Djagos",
+        "Guardian Djagos DNA",
+        "Guardian Djagos RNA"
+      ],
+      "japaneseName": "ジャーゴス Jāgosu",
+      "versionAdded": "5.4.0"
+    },
+    {
+      "id": 44,
+      "name": "Djugan",
+      "tier": "S",
+      "weapon": "Spear",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": 45,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Djugan the Sightless",
+        "Djugan the Discerning",
+        "Djugan the Clairvoyant"
+      ],
+      "japaneseName": "ジュガン Jugan",
+      "versionAdded": null
+    },
+    {
+      "id": 45,
+      "name": "Djugan ^",
+      "tier": "Z",
+      "weapon": "Spear",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": 44,
+      "gender": "Male",
+      "artist": null,
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Djugan Λ"
+      ],
+      "japaneseName": "ジュガン・Λ Jugan・Λ",
+      "versionAdded": "5.2.0"
+    },
+    {
+      "id": 46,
+      "name": "Dracorin",
+      "tier": "B",
+      "weapon": "Bow",
+      "attribute": "Lightning",
+      "species": "Wild Beast",
+      "lambdaForm": 47,
+      "originalForm": null,
+      "gender": "Unisex",
+      "artist": null,
+      "availability": [
+        "Pact of Fellowship",
+        "Pact of Fate (Coins)",
+        "Cryptid Forest",
+        "Story 2|3",
+        "Story 2|4",
+        "Story 2|5"
+      ],
+      "jobNames": [
+        "Dracorin",
+        "Crackling Dracorin",
+        "Jagged Dracorin"
+      ],
+      "japaneseName": "キリン Kirin",
+      "versionAdded": null
+    },
+    {
+      "id": 47,
+      "name": "Dracorin ^",
+      "tier": "S",
+      "weapon": "Bow",
+      "attribute": "Lightning",
+      "species": "Wild Beast",
+      "lambdaForm": null,
+      "originalForm": 46,
+      "gender": "Unisex",
+      "artist": null,
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Dracorin Λ"
+      ],
+      "japaneseName": "キリン・Λ Kirin・Λ",
+      "versionAdded": "4.7.0"
+    },
+    {
+      "id": 48,
+      "name": "Echo",
+      "tier": "S",
+      "weapon": "Staff",
+      "attribute": "Remedy",
+      "species": "Spirit",
+      "lambdaForm": 49,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Toshiyuki Itahana",
+      "availability": [
+        "Mobius Final Fantasy"
+      ],
+      "jobNames": [
+        "Echo the Beguiling",
+        "Echo the Illuminating",
+        "Echo the Otherworldly"
+      ],
+      "japaneseName": "エコー Ekō",
+      "versionAdded": null
+    },
+    {
+      "id": 49,
+      "name": "Echo ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Remedy",
+      "species": "Spirit",
+      "lambdaForm": null,
+      "originalForm": 48,
+      "gender": "Female",
+      "artist": "Toshiyuki Itahana",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Echo Λ"
+      ],
+      "japaneseName": "エコー・Λ Ekō・Λ",
+      "versionAdded": "4.4.0"
+    },
+    {
+      "id": 50,
+      "name": "Edg'low",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Photon",
+      "species": "Lizardfolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Takatoshi Goto",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Edg'low the Afflicted",
+        "Edg'low the Medical Miracle",
+        "Edg'low the Medical Marvel"
+      ],
+      "japaneseName": "エッジロー Ejjirō",
+      "versionAdded": null
+    },
+    {
+      "id": 51,
+      "name": "Eileen",
+      "tier": "A",
+      "weapon": "Staff",
+      "attribute": "Remedy",
+      "species": "Human",
+      "lambdaForm": 52,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Eileen the Songstress",
+        "Eileen the Dancer",
+        "Eileen the Diva"
+      ],
+      "japaneseName": "アイリーン Airīn",
+      "versionAdded": null
+    },
+    {
+      "id": 52,
+      "name": "Eileen ^",
+      "tier": "SS",
+      "weapon": "Staff",
+      "attribute": "Remedy",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": 51,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "アイリーン・Λ Airīn Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 53,
+      "name": "Elga",
+      "tier": "Z",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Wild Beast",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Unisex",
+      "artist": null,
+      "availability": [
+        "Limited-time Pact of Truth and Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Guardian Elga",
+        "Guardian Elga DNA",
+        "Guardian Elga RNA"
+      ],
+      "japaneseName": "エルガ Eruga",
+      "versionAdded": "5.4.0"
+    },
+    {
+      "id": 54,
+      "name": "Ella ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Yoshitomo Ikawa",
+      "availability": [
+        "Vengeful Heart"
+      ],
+      "jobNames": [
+        "Ella Λ"
+      ],
+      "japaneseName": "エラ・Λ Era・Λ",
+      "versionAdded": "4.4.0"
+    },
+    {
+      "id": 55,
+      "name": "Ellvern",
+      "tier": "S",
+      "weapon": "Staff",
+      "attribute": "Remedy",
+      "species": "Human",
+      "lambdaForm": 56,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Ellvern the Apothecary",
+        "Ellvern the Physician",
+        "Ellvern the Surgeon"
+      ],
+      "japaneseName": "エルヴァーン Eruvān",
+      "versionAdded": null
+    },
+    {
+      "id": 56,
+      "name": "Ellvern ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Remedy",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": 55,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "エルヴァーン・Λ Eruvān Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 57,
+      "name": "Engi",
+      "tier": "Z",
+      "weapon": "Bow",
+      "attribute": null,
+      "species": "Wild Beast",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": null,
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Engi the Rockgunner",
+        "Engi the Ballista",
+        "Engi the Cannon"
+      ],
+      "japaneseName": "エンギィ En'gyi",
+      "versionAdded": "4.6.0"
+    },
+    {
+      "id": 58,
+      "name": "Feno",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Moon",
+      "species": "Oxsecian",
+      "lambdaForm": 59,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Takatoshi Goto",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Feno the Defender",
+        "Feno the Conductor",
+        "Aegis Feno"
+      ],
+      "japaneseName": "フェノ Feno",
+      "versionAdded": "4.8.0"
+    },
+    {
+      "id": 59,
+      "name": "Feno ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Lunar",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": 58,
+      "gender": "Unisex",
+      "artist": null,
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Feno Λ"
+      ],
+      "japaneseName": "フェノ・Λ Feno・Λ",
+      "versionAdded": "5.2.0"
+    },
+    {
+      "id": 60,
+      "name": "Gaiga",
+      "tier": "SS",
+      "weapon": "Bow",
+      "attribute": "Darkness",
+      "species": "Beastfolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Gaiga the Alluring",
+        "Gaiga the Bewitching",
+        "Gaiga the Temptress"
+      ],
+      "japaneseName": "ガイガ Gaiga",
+      "versionAdded": null
+    },
+    {
+      "id": 61,
+      "name": "Gatz",
+      "tier": "S",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": 62,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Gatz the Filcher",
+        "Gatz the Thief",
+        "Gatz the Phantom"
+      ],
+      "japaneseName": "ガッツ Gattsu",
+      "versionAdded": null
+    },
+    {
+      "id": 62,
+      "name": "Gatz ^",
+      "tier": "Z",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": 61,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "ガッツ・Λ Gattsu Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 63,
+      "name": "Gegonago",
+      "tier": "S",
+      "weapon": "Staff",
+      "attribute": "Remedy",
+      "species": "Beastfolk",
+      "lambdaForm": 64,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Gegonago the Space Mage",
+        "Gegonago the Astral Mage",
+        "Gegonago the Magnificent"
+      ],
+      "japaneseName": "ゲゴナゴ Gegonago",
+      "versionAdded": null
+    },
+    {
+      "id": 64,
+      "name": "Gegonago ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Remedy",
+      "species": "Beastfolk",
+      "lambdaForm": null,
+      "originalForm": 63,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "ゲゴナゴ・Λ Gegonago Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 65,
+      "name": "Gigojago",
+      "tier": "B",
+      "weapon": "Bow",
+      "attribute": "Ice",
+      "species": "Beastfolk",
+      "lambdaForm": 66,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Gigojago the Archer",
+        "Gigojago the Marksman",
+        "Gigojago the Sniper"
+      ],
+      "japaneseName": "ギゴジャゴ Gigojago",
+      "versionAdded": null
+    },
+    {
+      "id": 66,
+      "name": "Gigojago ^",
+      "tier": "Z",
+      "weapon": "Bow",
+      "attribute": null,
+      "species": "Beastfolk",
+      "lambdaForm": null,
+      "originalForm": 65,
+      "gender": "Male",
+      "artist": null,
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Gigojago Λ"
+      ],
+      "japaneseName": "ギゴジャゴ・Λ Gigojago・Λ",
+      "versionAdded": "5.3.0"
+    },
+    {
+      "id": 67,
+      "name": "Ginny",
+      "tier": "Z",
+      "weapon": "Bow",
+      "attribute": null,
+      "species": "Beastfolk",
+      "lambdaForm": 68,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": null,
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Ginny the Dainty",
+        "Ginny the Exquisite",
+        "Ginny the Flamboyant"
+      ],
+      "japaneseName": "ジニ Jini",
+      "versionAdded": "5.1.0"
+    },
+    {
+      "id": 68,
+      "name": "Ginny ^",
+      "tier": "Z",
+      "weapon": "Bow",
+      "attribute": null,
+      "species": "Beastfolk",
+      "lambdaForm": null,
+      "originalForm": 67,
+      "gender": "Female",
+      "artist": null,
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Ginny Λ"
+      ],
+      "japaneseName": "ジニ・Λ Jini・Λ",
+      "versionAdded": "5.2.0"
+    },
+    {
+      "id": 69,
+      "name": "Grace",
+      "tier": "B",
+      "weapon": "Bow",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": 70,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)",
+        "Starter Character"
+      ],
+      "jobNames": [
+        "Grace the Archer",
+        "Grace the Markswoman",
+        "Grace the Ranger"
+      ],
+      "japaneseName": "グレース Gurēsu",
+      "versionAdded": null
+    },
+    {
+      "id": 70,
+      "name": "Grace ^",
+      "tier": "S",
+      "weapon": "Bow",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": 69,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Grace Λ"
+      ],
+      "japaneseName": "グレース・Λ Gurēsu・Λ",
+      "versionAdded": "4.4.0"
+    },
+    {
+      "id": 71,
+      "name": "Gugba",
+      "tier": "SS",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Beastfolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Gugba the Hefty",
+        "Gugba the Corpulent",
+        "Gugba the Earthshaker"
+      ],
+      "japaneseName": "ググバ Guguba",
+      "versionAdded": null
+    },
+    {
+      "id": 72,
+      "name": "Haggo",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Graviton",
+      "species": "Beastfolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": null,
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Haggo the Attentive",
+        "Haggo the Conjurer",
+        "Haggo the Illusionist"
+      ],
+      "japaneseName": "ハゴ Hago",
+      "versionAdded": "5.1.0"
+    },
+    {
+      "id": 73,
+      "name": "Hakann",
+      "tier": "Z",
+      "weapon": "Bow",
+      "attribute": "Sun",
+      "species": "Lizardfolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Mizufune Tomoyuki",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Hakann the Teacher",
+        "Hakann the Coach",
+        "Solar Hakann"
+      ],
+      "japaneseName": "ハカン Hakan",
+      "versionAdded": "4.8.0"
+    },
+    {
+      "id": 74,
+      "name": "Harold",
+      "tier": "A",
+      "weapon": "Bow",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Harold the Roughrider",
+        "Harold the Virtuoso",
+        "Harold the Cavalier"
+      ],
+      "japaneseName": "ハロルド Harorudo",
+      "versionAdded": null
+    },
+    {
+      "id": 75,
+      "name": "Haruhikari",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Healing",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": null,
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Maidenly Haruhikari",
+        "Angelic Haruhikari",
+        "Sublime Haruhikari"
+      ],
+      "japaneseName": "ハルヒカリ Haruhikari",
+      "versionAdded": "4.9.0"
+    },
+    {
+      "id": 76,
+      "name": "Invincible",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": null,
+      "species": "Celestial",
+      "lambdaForm": 77,
+      "originalForm": null,
+      "gender": "Unisex",
+      "artist": "Yoshitaka Amano",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "The Invincible",
+        "The Weeping Invincible",
+        "The Walking Invincible"
+      ],
+      "japaneseName": "インビンシブル Inbinshiburu",
+      "versionAdded": null
+    },
+    {
+      "id": 77,
+      "name": "Invincible ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": null,
+      "species": "Celestial",
+      "lambdaForm": null,
+      "originalForm": 76,
+      "gender": "Unisex",
+      "artist": "Hironobu Sakaguchi",
+      "availability": [
+        "Recode DNA",
+        "Pact of Fellowship",
+        "Pact of Fate (Coins)"
+      ],
+      "jobNames": [
+        "The Invincible Λ"
+      ],
+      "japaneseName": "インビンシブル・Λ Inbinshiburu・Λ",
+      "versionAdded": "4.4.0"
+    },
+    {
+      "id": 78,
+      "name": "Iskar",
+      "tier": "A",
+      "weapon": "Bow",
+      "attribute": "Photon",
+      "species": "Wild Beast",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": null,
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Iskar the Lonely",
+        "Iskar the Brave",
+        "Iskar the Believer"
+      ],
+      "japaneseName": "イスカル Isukaru",
+      "versionAdded": "4.6.0"
+    },
+    {
+      "id": 79,
+      "name": "Jade Dragon",
+      "tier": "A",
+      "weapon": "Sword",
+      "attribute": "Lightning",
+      "species": "Dragon",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Unisex",
+      "artist": "Hideo Minaba",
+      "availability": [
+        "Hunting the Jade Dragon"
+      ],
+      "jobNames": [
+        "Jade Dragon",
+        "Luminous Jade Dragon",
+        "Phantasmal Jade Dragon"
+      ],
+      "japaneseName": "ジェイドドラゴン Jeidodoragon",
+      "versionAdded": null
+    },
+    {
+      "id": 80,
+      "name": "Jag",
+      "tier": "SS",
+      "weapon": "Staff",
+      "attribute": "Fire",
+      "species": "Wild Beast",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": null,
+      "availability": [
+        "After completing Story 38:",
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Jag the Monarch",
+        "Jag the Rock King",
+        "Jag the Crowned"
+      ],
+      "japaneseName": "ジャグ Jagu",
+      "versionAdded": "4.6.0"
+    },
+    {
+      "id": 81,
+      "name": "Jaguna",
+      "tier": "B",
+      "weapon": "Bow",
+      "attribute": null,
+      "species": "Beastfolk",
+      "lambdaForm": 82,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Hitoshi Yoneda",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fellowship",
+        "Pact of Fate (Energy/Coins)"
+      ],
+      "jobNames": [
+        "Jaguna the Armored",
+        "Jaguna the Ironclad",
+        "Jaguna the Magnetic"
+      ],
+      "japaneseName": "シャグナ Jaguna",
+      "versionAdded": null
+    },
+    {
+      "id": 82,
+      "name": "Jaguna ^",
+      "tier": "Z",
+      "weapon": "Spear",
+      "attribute": "Remedy",
+      "species": "Beastfolk",
+      "lambdaForm": null,
+      "originalForm": 81,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "シャグナ・Λ Jaguna Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 83,
+      "name": "Jennish",
+      "tier": "SS",
+      "weapon": "Staff",
+      "attribute": "Lightning",
+      "species": "Human",
+      "lambdaForm": 84,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Jennish the Thunderous",
+        "Jennish the Force Field",
+        "Jennish the Ascendant"
+      ],
+      "japaneseName": "ジェンニッシュ Jen'nisshu",
+      "versionAdded": null
+    },
+    {
+      "id": 84,
+      "name": "Jennish ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Lightning",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": 83,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "ジェンニッシュ・Λ Jen'nisshu Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 85,
+      "name": "Ka'pori",
+      "tier": "A",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Lizardfolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Ka'pori the Big Mouth",
+        "Ka'pori the Massive Mouth",
+        "Ka'pori the Insatiable"
+      ],
+      "japaneseName": "カッポリー Kapporī",
+      "versionAdded": null
+    },
+    {
+      "id": 86,
+      "name": "Kana",
+      "tier": "A",
+      "weapon": "Staff",
+      "attribute": "Remedy",
+      "species": "Beastfolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Kana the Apothecary",
+        "Kana the Instructor",
+        "Kana the Chemist"
+      ],
+      "japaneseName": "カナ Kana",
+      "versionAdded": null
+    },
+    {
+      "id": 87,
+      "name": "Kem",
+      "tier": "A",
+      "weapon": "Spear",
+      "attribute": null,
+      "species": "Stonefolk",
+      "lambdaForm": 88,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Kem the Spearman",
+        "Kem the Dream Spear",
+        "Kem the Mystic Spear"
+      ],
+      "japaneseName": "ケン Ken",
+      "versionAdded": null
+    },
+    {
+      "id": 88,
+      "name": "Kem ^",
+      "tier": "SS",
+      "weapon": "Spear",
+      "attribute": null,
+      "species": "Stonefolk",
+      "lambdaForm": null,
+      "originalForm": 87,
+      "gender": "Male",
+      "artist": null,
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Kem Λ"
+      ],
+      "japaneseName": "ケン・Λ Ken Λ",
+      "versionAdded": "4.2.0"
+    },
+    {
+      "id": 89,
+      "name": "Kir'ue",
+      "tier": "SS",
+      "weapon": "Spear",
+      "attribute": "Photon",
+      "species": "Wild Beast",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": null,
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Kir'ue the Skilled",
+        "Kir'ue the Cunning",
+        "Kir'ue the Enlightened"
+      ],
+      "japaneseName": "キルエ Kirue",
+      "versionAdded": "4.6.0"
+    },
+    {
+      "id": 90,
+      "name": "Koh",
+      "tier": "SS",
+      "weapon": "Sword",
+      "attribute": "Fire",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": null,
+      "availability": [
+        "Limited-time Pact of Truth and Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Guardian Koh",
+        "Guardian Koh DNA",
+        "Guardian Koh RNA"
+      ],
+      "japaneseName": "コウ Kou",
+      "versionAdded": "5.4.0"
+    },
+    {
+      "id": 91,
+      "name": "Koko",
+      "tier": "SS",
+      "weapon": "Spear",
+      "attribute": "Fire",
+      "species": "Stonefolk",
+      "lambdaForm": 92,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Koko the Igneous",
+        "Koko the Molten",
+        "Koko the Magma"
+      ],
+      "japaneseName": "ココ Koko",
+      "versionAdded": null
+    },
+    {
+      "id": 92,
+      "name": "Koko ^",
+      "tier": "Z",
+      "weapon": "Spear",
+      "attribute": "Fire",
+      "species": "Stonefolk",
+      "lambdaForm": null,
+      "originalForm": 91,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "ココ・Λ Koko Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 93,
+      "name": "Korin",
+      "tier": "A",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Stonefolk",
+      "lambdaForm": 94,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Korin the Swordsman",
+        "Korin the Dream Sword",
+        "Korin the Mystic Sword"
+      ],
+      "japaneseName": "コリン Korin",
+      "versionAdded": null
+    },
+    {
+      "id": 94,
+      "name": "Korin ^",
+      "tier": "SS",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Stonefolk",
+      "lambdaForm": null,
+      "originalForm": 93,
+      "gender": "Male",
+      "artist": "Yoshitomo Ikawa",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "コリン・Λ Korin Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 95,
+      "name": "Kuscah",
+      "tier": "B",
+      "weapon": "Staff",
+      "attribute": "Healing",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)",
+        "Limited-time Starter Character"
+      ],
+      "jobNames": [
+        "Kuscah the Acolyte",
+        "Kuscah the Priest",
+        "Kuscah the Healer"
+      ],
+      "japaneseName": "クスカ Kusuka",
+      "versionAdded": null
+    },
+    {
+      "id": 96,
+      "name": "Lacuma",
+      "tier": "Z",
+      "weapon": "Bow",
+      "attribute": "Graviton",
+      "species": "Lizardfolk",
+      "lambdaForm": 97,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": null,
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Lacuma the Merchant",
+        "Lacuma the Tycoon",
+        "Lacuma the Investor"
+      ],
+      "japaneseName": "ラクーマ Rakūma",
+      "versionAdded": "4.3.0"
+    },
+    {
+      "id": 97,
+      "name": "Lacuma ^",
+      "tier": "Z",
+      "weapon": "Bow",
+      "attribute": "Graviton",
+      "species": "Lizardfolk",
+      "lambdaForm": null,
+      "originalForm": 96,
+      "gender": "Male",
+      "artist": null,
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Lacuma Λ"
+      ],
+      "japaneseName": "ラクーマ・Λ Rakūma Λ",
+      "versionAdded": "4.3.0"
+    },
+    {
+      "id": 98,
+      "name": "Leviathan",
+      "tier": "S",
+      "weapon": "Staff",
+      "attribute": "Ice",
+      "species": "Dragon",
+      "lambdaForm": 99,
+      "originalForm": null,
+      "gender": "Unisex",
+      "artist": "Hideo Minaba",
+      "availability": [
+        "Leviathan Descended",
+        "Leviathan Evolved",
+        "Leviathan Ultra"
+      ],
+      "jobNames": [
+        "Leviathan",
+        "Neo Leviathan",
+        "Leviathan Omega"
+      ],
+      "japaneseName": "リヴァイアサン Rivaiasan",
+      "versionAdded": null
+    },
+    {
+      "id": 99,
+      "name": "Leviathan ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Ice",
+      "species": "Dragon",
+      "lambdaForm": null,
+      "originalForm": 98,
+      "gender": "Unisex",
+      "artist": "Hideo Minaba",
+      "availability": [
+        "Leviathan Recoded",
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "リヴァイアサン・Λ Rivaiasan Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 100,
+      "name": "Lew",
+      "tier": "SS",
+      "weapon": "Staff",
+      "attribute": "Healing",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": null,
+      "availability": [
+        "Limited-time Pact of Truth and Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Guardian Lew",
+        "Guardian Lew DNA",
+        "Guardian Lew RNA"
+      ],
+      "japaneseName": "ルゥ Rū",
+      "versionAdded": "5.4.0"
+    },
+    {
+      "id": 101,
+      "name": "Lewto",
+      "tier": "SS",
+      "weapon": "Staff",
+      "attribute": "Fire",
+      "species": "Stonefolk",
+      "lambdaForm": 102,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Lewto the Keeper",
+        "Lewto the Tamer",
+        "Lewto the Master"
+      ],
+      "japaneseName": "ルート Rūto",
+      "versionAdded": null
+    },
+    {
+      "id": 102,
+      "name": "Lewto ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Fire",
+      "species": "Stonefolk",
+      "lambdaForm": null,
+      "originalForm": 101,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "ルート・Λ Rūto Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 103,
+      "name": "Lich ^",
+      "tier": "S",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Wild Beast",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Unisex",
+      "artist": null,
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Lich the Accursed",
+        "Lich the Unholy",
+        "Lich the Infernal"
+      ],
+      "japaneseName": "リッチ・Λ Ricchi Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 104,
+      "name": "Lio",
+      "tier": "Z",
+      "weapon": "Bow",
+      "attribute": "Lunar",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": null,
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Lio the Sharpshooter",
+        "Lio the Haunting Huntress",
+        "Lio the Unforgiving"
+      ],
+      "japaneseName": "リョウ Ryou",
+      "versionAdded": "5.3.0"
+    },
+    {
+      "id": 105,
+      "name": "Lucia",
+      "tier": "SS",
+      "weapon": "Staff",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": 106,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Lucia the Explorer",
+        "Messages (sent to all players on September 28, 2015)"
+      ],
+      "jobNames": [
+        "Lucia the Explorer"
+      ],
+      "japaneseName": "ルチア Ruchia",
+      "versionAdded": null
+    },
+    {
+      "id": 106,
+      "name": "Lucia ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": 105,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "ルチア・Λ Ruchia Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 107,
+      "name": "Lunaken",
+      "tier": "S",
+      "weapon": "Spear",
+      "attribute": null,
+      "species": "Stonefolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Lunaken the Sentry",
+        "Lunaken the Fearsome",
+        "Lunaken the Royal Guardsman"
+      ],
+      "japaneseName": "ルナーケン Runāken",
+      "versionAdded": null
+    },
+    {
+      "id": 108,
+      "name": "Lunato",
+      "tier": "S",
+      "weapon": "Bow",
+      "attribute": null,
+      "species": "Stonefolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Lunato the Sentry",
+        "Lunato the Petrifier",
+        "Lunato the Royal Guardsman"
+      ],
+      "japaneseName": "ルナーサクト Runāsakuto",
+      "versionAdded": null
+    },
+    {
+      "id": 109,
+      "name": "Ma'curi",
+      "tier": "B",
+      "weapon": "Spear",
+      "attribute": null,
+      "species": "Lizardfolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Ma'curi the Tormented",
+        "Ma'curi the Tortured",
+        "Ma'curi the Martyr"
+      ],
+      "japaneseName": "マッカリー Makkarī",
+      "versionAdded": null
+    },
+    {
+      "id": 110,
+      "name": "Maldor",
+      "tier": "SS",
+      "weapon": "Staff",
+      "attribute": "Lightning",
+      "species": "Wild Beast",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": null,
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Maldor the Magnate",
+        "Maldor the Corrupt",
+        "Maldor the Cardinal"
+      ],
+      "japaneseName": "マルドー Marudō",
+      "versionAdded": "4.6.0"
+    },
+    {
+      "id": 111,
+      "name": "Manmer",
+      "tier": "A",
+      "weapon": "Bow",
+      "attribute": null,
+      "species": "Stonefolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Manmer the Defender",
+        "Manmer the Survivor",
+        "Manmer the Attacker"
+      ],
+      "japaneseName": "マネマ Manema",
+      "versionAdded": null
+    },
+    {
+      "id": 112,
+      "name": "Maralme",
+      "tier": "A",
+      "weapon": "Sword",
+      "attribute": "Fire",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Manabu Kusunoki",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fellowship",
+        "Pact of Fate (Energy/Coins)"
+      ],
+      "jobNames": [
+        "Maralme the Dragon Slayer",
+        "Maralme the Weredrake",
+        "Maralme the Wyrmmaster"
+      ],
+      "japaneseName": "マラルメ Mararume",
+      "versionAdded": null
+    },
+    {
+      "id": 113,
+      "name": "Marcus",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Sun",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Sohei Kikuchi",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Marcus the Wanderer",
+        "Marcus the Clown",
+        "Wild Marcus"
+      ],
+      "japaneseName": "マーカス Mākasu",
+      "versionAdded": "4.8.0"
+    },
+    {
+      "id": 114,
+      "name": "Marilith ^",
+      "tier": "S",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Wild Beast",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Unisex",
+      "artist": null,
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Marilith the Relentless",
+        "Marilith the Demonic",
+        "Marilith the Reaper"
+      ],
+      "japaneseName": "マリリス・Λ Maririsu Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 115,
+      "name": "Metupí",
+      "tier": "A",
+      "weapon": "Bow",
+      "attribute": null,
+      "species": "Stonefolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Metupí the Muscular",
+        "Metupí the Exalted",
+        "Metupí the Amazing"
+      ],
+      "japaneseName": "メッツ・ウピ Mettsu upi",
+      "versionAdded": null
+    },
+    {
+      "id": 116,
+      "name": "Mizell",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": 117,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Takatoshi Goto",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Mizell the Dazzling",
+        "Mizell the Enigma",
+        "Neutralizer Mizell"
+      ],
+      "japaneseName": "ミゼル Mizeru",
+      "versionAdded": "4.2.0"
+    },
+    {
+      "id": 117,
+      "name": "Mizell ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": 116,
+      "gender": "Female",
+      "artist": "Takatoshi Goto",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Mizell Λ"
+      ],
+      "japaneseName": "ミゼル・Λ Mizeru Λ",
+      "versionAdded": "4.2.0"
+    },
+    {
+      "id": 118,
+      "name": "Mizury",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Healing",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": null,
+      "availability": [
+        "Limited-time Pact of Truth and Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Guardian Mizury",
+        "Guardian Mizury DNA",
+        "Guardian Mizury RNA"
+      ],
+      "japaneseName": "ミズリィ Mizurī",
+      "versionAdded": "5.4.0"
+    },
+    {
+      "id": 119,
+      "name": "Mogha",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Graviton",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Takatoshi Goto",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Mogha the Recluse",
+        "Mogha the Boisterous",
+        "Mogha the Lecherous"
+      ],
+      "japaneseName": "モガ Moga",
+      "versionAdded": null
+    },
+    {
+      "id": 120,
+      "name": "Morgana",
+      "tier": "S",
+      "weapon": null,
+      "attribute": null,
+      "species": "Machine",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Unisex",
+      "artist": "Isamu Kamikokuryo",
+      "availability": [
+        "The Death of Shay and Arionne"
+      ],
+      "jobNames": [
+        "Morgana V1.0",
+        "Morgana V2.0",
+        "Morgana V3.0"
+      ],
+      "japaneseName": "モルガーナ Morugāna",
+      "versionAdded": "5.0.0"
+    },
+    {
+      "id": 121,
+      "name": "Mutoh ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Graviton",
+      "species": "Riftworlder",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Mutoh Λ (Quest)",
+        "Drop from Mutoh Λ (Enemy)",
+        "Luck Treasure Chests"
+      ],
+      "jobNames": [
+        "Mutoh Λ"
+      ],
+      "japaneseName": "ムトウ・Λ Mutou Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 122,
+      "name": "Myne",
+      "tier": "Z",
+      "weapon": "Bow",
+      "attribute": "Photon",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Takatoshi Goto",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Myne the Eccentric",
+        "Myne the Petulant",
+        "Myne the Optimist"
+      ],
+      "japaneseName": "マイン Main",
+      "versionAdded": null
+    },
+    {
+      "id": 123,
+      "name": "Nakupí",
+      "tier": "A",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Stonefolk",
+      "lambdaForm": 124,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Nakupí the Silken-Haired",
+        "Nakupí the Seeker",
+        "Nakupí the Beautiful"
+      ],
+      "japaneseName": "ナクラン・ウピ Nakuran upi",
+      "versionAdded": null
+    },
+    {
+      "id": 124,
+      "name": "Nakupí ^",
+      "tier": "Z",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Stonefolk",
+      "lambdaForm": null,
+      "originalForm": 123,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "ナクラン・ウピ・Λ Nakuran upi Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 125,
+      "name": "Nazuna",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Remedy",
+      "species": "Human",
+      "lambdaForm": 126,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": null,
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Nazuna the Bronze",
+        "Nazuna the Golden",
+        "Canary Nazuna"
+      ],
+      "japaneseName": "ナズナ Nazuna",
+      "versionAdded": "4.7.0"
+    },
+    {
+      "id": 126,
+      "name": "Nazuna ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Remedy",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": 125,
+      "gender": "Female",
+      "artist": null,
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Nazuna Λ"
+      ],
+      "japaneseName": "ナズナ・Λ Nazuna・Λ",
+      "versionAdded": "4.7.0"
+    },
+    {
+      "id": 127,
+      "name": "Nephrite Dragon",
+      "tier": "A",
+      "weapon": "Sword",
+      "attribute": "Darkness",
+      "species": "Dragon",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Unisex",
+      "artist": null,
+      "availability": [
+        "Hunting the Jade Dragon"
+      ],
+      "jobNames": [
+        "Nephrite Dragon",
+        "Doomsday Nephrite Dragon",
+        "Phantasmal Nephrite Dragon"
+      ],
+      "japaneseName": "ネフライトドラゴン Nefuraito doragon",
+      "versionAdded": "4.5.0"
+    },
+    {
+      "id": 128,
+      "name": "Nia",
+      "tier": "SS",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": 129,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Akihiko Yoshida",
+      "availability": [
+        "Battle Champs"
+      ],
+      "jobNames": [
+        "Nia the Havoc Sword",
+        "Nia the Ice Fencer",
+        "Nia the Soothing"
+      ],
+      "japaneseName": "ノア Noa",
+      "versionAdded": "4.3.0"
+    },
+    {
+      "id": 129,
+      "name": "Nia ^",
+      "tier": "Z",
+      "weapon": null,
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": 128,
+      "gender": "Female",
+      "artist": "Akihiko Yoshida",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Nia Λ"
+      ],
+      "japaneseName": "ノア・Λ Noa Λ",
+      "versionAdded": "4.3.0"
+    },
+    {
+      "id": 130,
+      "name": "Noctis",
+      "tier": "S",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": null,
+      "availability": [
+        "Final Fantasy XV"
+      ],
+      "jobNames": [
+        "Lucian Prince Noctis",
+        "Destined Prince Noctis",
+        "Chosen King Noctis"
+      ],
+      "japaneseName": "ノクティス Nokutisu",
+      "versionAdded": "4.7.0"
+    },
+    {
+      "id": 131,
+      "name": "O'pari",
+      "tier": "B",
+      "weapon": "Bow",
+      "attribute": "Fire",
+      "species": "Lizardfolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "O'pari the Blitzer",
+        "O'pari the Battering Ram",
+        "O'pari the Firestorm"
+      ],
+      "japaneseName": "オッパリー Opparī",
+      "versionAdded": null
+    },
+    {
+      "id": 132,
+      "name": "Odin",
+      "tier": "S",
+      "weapon": "Spear",
+      "attribute": null,
+      "species": "Celestial",
+      "lambdaForm": 133,
+      "originalForm": null,
+      "gender": "Unisex",
+      "artist": "Hideo Minaba",
+      "availability": [
+        "Odin Descended",
+        "Odin Evolved",
+        "Odin Ultra"
+      ],
+      "jobNames": [
+        "Odin",
+        "Neo Odin",
+        "Odin Omega"
+      ],
+      "japaneseName": "オーディン Ōdin",
+      "versionAdded": null
+    },
+    {
+      "id": 133,
+      "name": "Odin ^",
+      "tier": "Z",
+      "weapon": "Spear",
+      "attribute": null,
+      "species": "Celestial",
+      "lambdaForm": null,
+      "originalForm": 132,
+      "gender": "Unisex",
+      "artist": "Hideo Minaba",
+      "availability": [
+        "Odin Recoded",
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "オーディン・Λ Ōdin Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 134,
+      "name": "Okklitot",
+      "tier": "S",
+      "weapon": "Spear",
+      "attribute": null,
+      "species": "Lizardfolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": null,
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Okklitot the Strong",
+        "Okklitot the Sloppy",
+        "Okklitot the Porter"
+      ],
+      "japaneseName": "オックリトット Okkuritotto",
+      "versionAdded": "4.3.0"
+    },
+    {
+      "id": 135,
+      "name": "Olber",
+      "tier": "SS",
+      "weapon": "Spear",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": 136,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Olber the Guardian",
+        "Olber the Defender",
+        "Olber the Sentinel"
+      ],
+      "japaneseName": "オルバ Oruba",
+      "versionAdded": null
+    },
+    {
+      "id": 136,
+      "name": "Olber ^",
+      "tier": "Z",
+      "weapon": "Spear",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": 135,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "オルバ・Λ Oruba Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 137,
+      "name": "Pahrl",
+      "tier": "A",
+      "weapon": "Bow",
+      "attribute": null,
+      "species": "Stonefolk",
+      "lambdaForm": 138,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Pahrl the Archer",
+        "Pahrl the Dream Bow",
+        "Pahrl the Mystic Bow"
+      ],
+      "japaneseName": "パール Pāru",
+      "versionAdded": null
+    },
+    {
+      "id": 138,
+      "name": "Pahrl ^",
+      "tier": "SS",
+      "weapon": "Bow",
+      "attribute": null,
+      "species": "Stonefolk",
+      "lambdaForm": null,
+      "originalForm": 137,
+      "gender": "Female",
+      "artist": null,
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Pahrl Λ"
+      ],
+      "japaneseName": "パール・Λ Pāru・Λ",
+      "versionAdded": "5.2.0"
+    },
+    {
+      "id": 139,
+      "name": "Palpa",
+      "tier": "S",
+      "weapon": "Staff",
+      "attribute": "Remedy",
+      "species": "Stonefolk",
+      "lambdaForm": 140,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Complete Chapter 10",
+        "After completing Chapter 10:",
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Princess Palpa",
+        "Queen Palpa",
+        "High Queen Palpa"
+      ],
+      "japaneseName": "パルパ324世 Parupa 324sei",
+      "versionAdded": null
+    },
+    {
+      "id": 140,
+      "name": "Palpa ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Remedy",
+      "species": "Stonefolk",
+      "lambdaForm": null,
+      "originalForm": 139,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "パルパ324世・Λ Parupa 324sei Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 141,
+      "name": "Peyrna",
+      "tier": "Z",
+      "weapon": "Sword",
+      "attribute": "Graviton",
+      "species": "Stonefolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Takatoshi Goto",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Peyrna the Ashen",
+        "Peyrna the Solitary",
+        "Peyrna the Beloved"
+      ],
+      "japaneseName": "ペルナ Peruna",
+      "versionAdded": null
+    },
+    {
+      "id": 142,
+      "name": "Piz'fer",
+      "tier": "SS",
+      "weapon": "Staff",
+      "attribute": "Ice",
+      "species": "Lizardfolk",
+      "lambdaForm": 143,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Piz'fer the Keeper",
+        "Piz'fer the Tamer",
+        "Piz'fer the Master"
+      ],
+      "japaneseName": "ピッツファー Pittsufā",
+      "versionAdded": null
+    },
+    {
+      "id": 143,
+      "name": "Piz'fer ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Ice",
+      "species": "Lizardfolk",
+      "lambdaForm": null,
+      "originalForm": 142,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "ピッツファー・Λ Pittsufā Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 144,
+      "name": "Pupropu",
+      "tier": "S",
+      "weapon": "Staff",
+      "attribute": "Lightning",
+      "species": "Stonefolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Pupropu the Hope",
+        "Pupropu the Miraculous",
+        "Pupropu the Wizard"
+      ],
+      "japaneseName": "ププロプ Pupuropu",
+      "versionAdded": null
+    },
+    {
+      "id": 145,
+      "name": "Pupropé",
+      "tier": "S",
+      "weapon": "Staff",
+      "attribute": "Darkness",
+      "species": "Stonefolk",
+      "lambdaForm": 146,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Pupropé the Hope",
+        "Pupropé the Barrier",
+        "Pupropé the Witch"
+      ],
+      "japaneseName": "ププロペ Pupurope",
+      "versionAdded": null
+    },
+    {
+      "id": 146,
+      "name": "Pupropé ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Darkness",
+      "species": "Stonefolk",
+      "lambdaForm": null,
+      "originalForm": 145,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "ププロペ・Λ Pupurope Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 147,
+      "name": "Pupru",
+      "tier": "S",
+      "weapon": "Bow",
+      "attribute": null,
+      "species": "Stonefolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Pupru the Prodigy",
+        "Pupru the Mercurial",
+        "Pupru the Genius"
+      ],
+      "japaneseName": "ププル Pupuru",
+      "versionAdded": null
+    },
+    {
+      "id": 148,
+      "name": "R'zonand",
+      "tier": "A",
+      "weapon": "Staff",
+      "attribute": "Remedy",
+      "species": "Lizardfolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "R'zonand the Rose Red",
+        "R'zonand the Crimson",
+        "R'zonand the Vermilion"
+      ],
+      "japaneseName": "レゾナンド Rezonando",
+      "versionAdded": null
+    },
+    {
+      "id": 149,
+      "name": "Ra'prow",
+      "tier": "B",
+      "weapon": "Spear",
+      "attribute": null,
+      "species": "Lizardfolk",
+      "lambdaForm": 150,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Ra'prow the Beat Master",
+        "Ra'prow the Move Master",
+        "Ra'prow the Rap Master"
+      ],
+      "japaneseName": "ラップロー Rappurō",
+      "versionAdded": null
+    },
+    {
+      "id": 150,
+      "name": "Ra'prow ^",
+      "tier": "S",
+      "weapon": "Spear",
+      "attribute": null,
+      "species": "Lizardfolk",
+      "lambdaForm": null,
+      "originalForm": 149,
+      "gender": "Male",
+      "artist": "Yoshitomo Ikawa",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Ra'prow Λ"
+      ],
+      "japaneseName": "ラップロー・Λ Rappurō Λ",
+      "versionAdded": "4.3.0"
+    },
+    {
+      "id": 151,
+      "name": "Rejin",
+      "tier": "S",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": 152,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Rejin the Nomad",
+        "Rejin the Dual Wielder",
+        "Rejin the Gadgeteer"
+      ],
+      "japaneseName": "レギン Regin",
+      "versionAdded": null
+    },
+    {
+      "id": 152,
+      "name": "Rejin ^",
+      "tier": "Z",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": 151,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "レギン・Λ Regin Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 153,
+      "name": "Renova",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Solar",
+      "species": "Beastfolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": null,
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Renova the Wise",
+        "Renova the Scholar",
+        "Renova the Sage"
+      ],
+      "japaneseName": "リノヴァ Rinova",
+      "versionAdded": "5.3.0"
+    },
+    {
+      "id": 154,
+      "name": "Rikken",
+      "tier": "SS",
+      "weapon": "Bow",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Rikken the Persuasive",
+        "Rikken the Advocate",
+        "Rikken the Negotiator"
+      ],
+      "japaneseName": "リッキー Rikkī",
+      "versionAdded": null
+    },
+    {
+      "id": 155,
+      "name": "Roland",
+      "tier": "SS",
+      "weapon": "Bow",
+      "attribute": "Photon",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": null,
+      "availability": [
+        "Limited-time Pact of Truth and Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Guardian Roland",
+        "Guardian Roland DNA",
+        "Guardian Roland RNA"
+      ],
+      "japaneseName": "ロラン Roran",
+      "versionAdded": "5.4.0"
+    },
+    {
+      "id": 156,
+      "name": "Rowlow",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": null,
+      "species": "Beastfolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": null,
+      "availability": [
+        "Limited-time Pact of Truth and Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Guardian Rowlow",
+        "Guardian Rowlow DNA",
+        "Guardian Rowlow RNA"
+      ],
+      "japaneseName": "ロロ Roro",
+      "versionAdded": "5.4.0"
+    },
+    {
+      "id": 157,
+      "name": "Ryoma",
+      "tier": "Z",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": null,
+      "availability": [
+        "Limited-time Pact of Truth and Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Guardian Ryoma",
+        "Guardian Ryoma DNA",
+        "Guardian Ryoma RNA"
+      ],
+      "japaneseName": "リョウマ Ryouma",
+      "versionAdded": "5.4.0"
+    },
+    {
+      "id": 158,
+      "name": "S'naip",
+      "tier": "A",
+      "weapon": "Bow",
+      "attribute": null,
+      "species": "Lizardfolk",
+      "lambdaForm": 159,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "S'naip the Supple-Tailed",
+        "S'naip the Bow Master",
+        "S'naip the Elastic-Tailed"
+      ],
+      "japaneseName": "スナイプ Sunaipu",
+      "versionAdded": null
+    },
+    {
+      "id": 159,
+      "name": "S'naip ^",
+      "tier": "SS",
+      "weapon": "Bow",
+      "attribute": null,
+      "species": "Lizardfolk",
+      "lambdaForm": null,
+      "originalForm": 158,
+      "gender": "Male",
+      "artist": null,
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "S'naip Λ"
+      ],
+      "japaneseName": "スナイプ・Λ Sunaipu Λ",
+      "versionAdded": "4.2.0"
+    },
+    {
+      "id": 160,
+      "name": "Samatha",
+      "tier": "SS",
+      "weapon": "Spear",
+      "attribute": "Lightning",
+      "species": "Human",
+      "lambdaForm": 161,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Samatha the Spearmaiden",
+        "Samatha the Huntress",
+        "Samatha the Foestalker"
+      ],
+      "japaneseName": "サマサ Samasa",
+      "versionAdded": null
+    },
+    {
+      "id": 161,
+      "name": "Samatha ^",
+      "tier": "Z",
+      "weapon": "Spear",
+      "attribute": "Lightning",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": 160,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "サマサ・Λ Samasa Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 162,
+      "name": "Samupí",
+      "tier": "A",
+      "weapon": "Spear",
+      "attribute": null,
+      "species": "Stonefolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Samupí the Handsome",
+        "Samupí the Chromatic",
+        "Samupí the Wonderful"
+      ],
+      "japaneseName": "サーメント・ウピ Sāmento upi",
+      "versionAdded": null
+    },
+    {
+      "id": 163,
+      "name": "Sarah",
+      "tier": "Z",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "A Chance Encounter With Sarah"
+      ],
+      "jobNames": [
+        "Sarah the Chosen",
+        "Sarah the Divine",
+        "Sarah the Reborn"
+      ],
+      "japaneseName": "サラ Sara",
+      "versionAdded": "5.5.0"
+    },
+    {
+      "id": 164,
+      "name": "Sayu",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Photon",
+      "species": "Human",
+      "lambdaForm": 165,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Takatoshi Goto",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Sayu the Prodigy",
+        "Sayu the Genius",
+        "Sayu the Marvelous"
+      ],
+      "japaneseName": "サユ Sayu",
+      "versionAdded": null
+    },
+    {
+      "id": 165,
+      "name": "Sayu ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Photon",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": 164,
+      "gender": "Female",
+      "artist": null,
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Sayu Λ"
+      ],
+      "japaneseName": "サユ・Λ Sayu・Λ",
+      "versionAdded": "5.2.0"
+    },
+    {
+      "id": 166,
+      "name": "Scarlet",
+      "tier": "Z",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Celestial",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": null,
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Bioweapon Scarlet",
+        "Doomsday Scarlet",
+        "Nihil Scarlet"
+      ],
+      "japaneseName": "クレナイ Kurenai",
+      "versionAdded": "4.5.0"
+    },
+    {
+      "id": 167,
+      "name": "Schweiz",
+      "tier": "Z",
+      "weapon": "Bow",
+      "attribute": "Remedy",
+      "species": "Beastfolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Takatoshi Goto",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Schweiz the Delusional",
+        "Schweiz the Visionary",
+        "Schweiz the Dreamer"
+      ],
+      "japaneseName": "シュバイツ Shubaitsu",
+      "versionAdded": null
+    },
+    {
+      "id": 168,
+      "name": "Seiryu",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": null,
+      "species": "Dragon",
+      "lambdaForm": 169,
+      "originalForm": null,
+      "gender": "Unisex",
+      "artist": "Hideo Minaba",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fellowship",
+        "Pact of Fate (Energy/Coins)"
+      ],
+      "jobNames": [
+        "Seiryu the Smoldering",
+        "Seiryu the Wrathful",
+        "Seiryu the August"
+      ],
+      "japaneseName": "青龍 Seiryū",
+      "versionAdded": null
+    },
+    {
+      "id": 169,
+      "name": "Seiryu ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Darkness",
+      "species": "Dragon",
+      "lambdaForm": null,
+      "originalForm": 168,
+      "gender": "Unisex",
+      "artist": null,
+      "availability": [
+        "Recode DNA",
+        "Pact of Fellowship",
+        "Pact of Fate (Coins)"
+      ],
+      "jobNames": [
+        "Seiryu Λ"
+      ],
+      "japaneseName": "青龍・Λ Seiryū・Λ",
+      "versionAdded": "4.5.0"
+    },
+    {
+      "id": 170,
+      "name": "Senala",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Photon",
+      "species": "Human",
+      "lambdaForm": 171,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Yoshitomo Ikawa",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Late Princess Senala",
+        "Scarlet Princess Senala",
+        "Rouge Senala"
+      ],
+      "japaneseName": "セナーラ Senāra",
+      "versionAdded": "4.4.0"
+    },
+    {
+      "id": 171,
+      "name": "Senala ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": 170,
+      "gender": "Female",
+      "artist": "Yoshitomo Ikawa",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Senala Λ"
+      ],
+      "japaneseName": "セナーラ・Λ Senāra・Λ",
+      "versionAdded": "4.4.0"
+    },
+    {
+      "id": 172,
+      "name": "Sh'berdan",
+      "tier": "B",
+      "weapon": "Spear",
+      "attribute": null,
+      "species": "Lizardfolk",
+      "lambdaForm": 173,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Sh'berdan the Malodorous",
+        "Sh'berdan the Noxious",
+        "Sh'berdan the Stink Master"
+      ],
+      "japaneseName": "シャンベルタン Shanberudan",
+      "versionAdded": null
+    },
+    {
+      "id": 173,
+      "name": "Sh'berdan ^",
+      "tier": "S",
+      "weapon": "Spear",
+      "attribute": null,
+      "species": "Lizardfolk",
+      "lambdaForm": null,
+      "originalForm": 172,
+      "gender": "Male",
+      "artist": null,
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Sh'berdan Λ"
+      ],
+      "japaneseName": "シャンベルタン・Λ Shanberudan Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 174,
+      "name": "Sha'plar",
+      "tier": "S",
+      "weapon": "Sword",
+      "attribute": "Darkness",
+      "species": "Lizardfolk",
+      "lambdaForm": 175,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Sha'plar the Witch",
+        "Sha'plar the Black",
+        "Sha'plar the Diabolical"
+      ],
+      "japaneseName": "シャップラー Shappurā",
+      "versionAdded": null
+    },
+    {
+      "id": 175,
+      "name": "Sha'plar ^",
+      "tier": "Z",
+      "weapon": "Sword",
+      "attribute": "Darkness",
+      "species": "Lizardfolk",
+      "lambdaForm": null,
+      "originalForm": 174,
+      "gender": "Female",
+      "artist": "Yoshitomo Ikawa",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Sha'plar Λ"
+      ],
+      "japaneseName": "シャップラー・Λ Shappurā Λ",
+      "versionAdded": "4.3.0"
+    },
+    {
+      "id": 176,
+      "name": "Shay",
+      "tier": "Z",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Isamu Kamikokuryo",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Sir Shay",
+        "Doctor Shay",
+        "Executioner Shay"
+      ],
+      "japaneseName": "ブレアソール Bureasōru",
+      "versionAdded": "5.0.0"
+    },
+    {
+      "id": 177,
+      "name": "Sheena",
+      "tier": "SS",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Hideo Minaba",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fellowship",
+        "Pact of Fate (Energy/Coins)"
+      ],
+      "jobNames": [
+        "Sheena the Performer",
+        "Sheena the Dancer",
+        "Sheena the Cosmic"
+      ],
+      "japaneseName": "シーナ Shīna",
+      "versionAdded": null
+    },
+    {
+      "id": 178,
+      "name": "Shin'en ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": null,
+      "species": "Riftworlder",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Shin'en Λ (Quest)",
+        "Drop from Shin'en Λ (Enemy)",
+        "Luck Treasure Chests"
+      ],
+      "jobNames": [
+        "Shin'en Λ"
+      ],
+      "japaneseName": "シンエン・Λ Shin'en Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 179,
+      "name": "Sorman",
+      "tier": "B",
+      "weapon": "Staff",
+      "attribute": "Healing",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)",
+        "Limited-time Starter Character"
+      ],
+      "jobNames": [
+        "Sorman the Sage",
+        "Sorman the Shaman",
+        "Sorman the Seraph"
+      ],
+      "japaneseName": "ソーマニア Sōmania",
+      "versionAdded": null
+    },
+    {
+      "id": 180,
+      "name": "Suoh",
+      "tier": "SS",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": 181,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Nakaba Suzuki",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fellowship",
+        "Pact of Fate (Energy/Coins)"
+      ],
+      "jobNames": [
+        "Suoh the Sellsword",
+        "Suoh the Assassin",
+        "Suoh the Believer"
+      ],
+      "japaneseName": "スォウ Suou",
+      "versionAdded": null
+    },
+    {
+      "id": 181,
+      "name": "Suoh ^",
+      "tier": "Z",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": 180,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "スォウ・Λ Suou Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 182,
+      "name": "Tronic Gal",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Solar",
+      "species": "Machine",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Typical Tronic Gal",
+        "Hybrid Tronic Gal",
+        "Ultimate Tronic Gal"
+      ],
+      "japaneseName": "機械少女 Kikai Shōjo",
+      "versionAdded": "4.8.1"
+    },
+    {
+      "id": 183,
+      "name": "Tsutsura",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Ice",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": null,
+      "availability": [
+        "Limited-time Pact of Truth and Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Guardian Tsutsura",
+        "Guardian Tsutsura DNA",
+        "Guardian Tsutsura RNA"
+      ],
+      "japaneseName": "ツツラ Tsutsura",
+      "versionAdded": "5.4.0"
+    },
+    {
+      "id": 184,
+      "name": "U'nasag",
+      "tier": "B",
+      "weapon": "Spear",
+      "attribute": "Ice",
+      "species": "Lizardfolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "U'nasag the Torrent",
+        "U'nasag the Spiny",
+        "U'nasag the Tsunami"
+      ],
+      "japaneseName": "ウナサーガ Unasāga",
+      "versionAdded": null
+    },
+    {
+      "id": 185,
+      "name": "Varve",
+      "tier": "Z",
+      "weapon": "Spear",
+      "attribute": "Solar",
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": null,
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Varve the Spear-Chosen",
+        "Varve the Spear-Whisperer",
+        "Varve the Lovestruck"
+      ],
+      "japaneseName": "バルブエ Barubue",
+      "versionAdded": "5.3.0"
+    },
+    {
+      "id": 186,
+      "name": "Velraine",
+      "tier": "A",
+      "weapon": "Sword",
+      "attribute": "Ice",
+      "species": "Human",
+      "lambdaForm": 187,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Manabu Kusunoki",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fellowship",
+        "Pact of Fate (Energy/Coins)"
+      ],
+      "jobNames": [
+        "Velraine the Dragon Hunter",
+        "Velraine the Halfbreed",
+        "Velraine the Dragon"
+      ],
+      "japaneseName": "ヴェルレーヌ Verurēnu",
+      "versionAdded": null
+    },
+    {
+      "id": 187,
+      "name": "Velraine ^",
+      "tier": "SS",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": 186,
+      "gender": "Female",
+      "artist": "Manabu Kusunoki",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Velraine Λ"
+      ],
+      "japaneseName": "ヴェルレーヌ・Λ Verurēnu・Λ",
+      "versionAdded": "4.7.0"
+    },
+    {
+      "id": 188,
+      "name": "Violet",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Graviton",
+      "species": "Celestial",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": null,
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Bioweapon Violet",
+        "Doomsday Violet",
+        "Nihil Violet"
+      ],
+      "japaneseName": "ムラサキ Murasaki",
+      "versionAdded": "4.5.0"
+    },
+    {
+      "id": 189,
+      "name": "Y'apkar",
+      "tier": "S",
+      "weapon": "Staff",
+      "attribute": "Ice",
+      "species": "Lizardfolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Y'apkar the Dreamer",
+        "Y'apkar the Quixotic",
+        "Y'apkar the Magitek Knight"
+      ],
+      "japaneseName": "ヤップカー Yappukā",
+      "versionAdded": null
+    },
+    {
+      "id": 190,
+      "name": "Yukken",
+      "tier": "SS",
+      "weapon": "Bow",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": 191,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Yukken the Chatterbox",
+        "Yukken the Tomboy",
+        "Yukken the Negotiator"
+      ],
+      "japaneseName": "ユッカ Yukka",
+      "versionAdded": null
+    },
+    {
+      "id": 191,
+      "name": "Yukken ^",
+      "tier": "Z",
+      "weapon": "Bow",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": 190,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "ユッカ・Λ Yukka Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 192,
+      "name": "Yulia",
+      "tier": "SS",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)",
+        "Terra Battle strategy guide (expired on July 31, 2015) [http://www.amazon.co.jp/exec/obidos/ASIN/4047303208/]"
+      ],
+      "jobNames": [
+        "Yulia the Outlaw",
+        "Yulia the Antihero",
+        "Yulia the Unsung Hero"
+      ],
+      "japaneseName": "ユリア Yuria",
+      "versionAdded": null
+    },
+    {
+      "id": 193,
+      "name": "Zael",
+      "tier": "S",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Human",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "The Last Story (Perfect Fate)"
+      ],
+      "jobNames": [
+        "Zael the Ex-Sellsword",
+        "Zael the Knight",
+        "Zael the Outsider King"
+      ],
+      "japaneseName": "エルザ Eruza",
+      "versionAdded": null
+    },
+    {
+      "id": 194,
+      "name": "Zafitte",
+      "tier": "S",
+      "weapon": "Staff",
+      "attribute": "Remedy",
+      "species": "Beastfolk",
+      "lambdaForm": 195,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Zafitte the Flatfooted",
+        "Zafitte the Graceful",
+        "Zafitte the Dancer"
+      ],
+      "japaneseName": "ザフィッテ Zafitte",
+      "versionAdded": null
+    },
+    {
+      "id": 195,
+      "name": "Zafitte ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Remedy",
+      "species": "Beastfolk",
+      "lambdaForm": null,
+      "originalForm": 194,
+      "gender": "Female",
+      "artist": null,
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": [
+        "Zafitte Λ"
+      ],
+      "japaneseName": "ザフィッテ・Λ Zafitte・Λ",
+      "versionAdded": "5.2.0"
+    },
+    {
+      "id": 196,
+      "name": "Zaldor",
+      "tier": "Z",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Beastfolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Takatoshi Goto",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Zaldor the Elegant",
+        "Zaldor the Refined",
+        "Zaldor the Noble"
+      ],
+      "japaneseName": "ザルドラ Zarudora",
+      "versionAdded": "5.1.0"
+    },
+    {
+      "id": 197,
+      "name": "Zan",
+      "tier": "B",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Stonefolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Zan the Lava Surfer",
+        "Zan the Resplendent",
+        "Zan the EM Surfer"
+      ],
+      "japaneseName": "ザン Zan",
+      "versionAdded": null
+    },
+    {
+      "id": 198,
+      "name": "Zavison",
+      "tier": "Z",
+      "weapon": "Bow",
+      "attribute": null,
+      "species": "Stonefolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Takatoshi Goto",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Zavison the Shadow",
+        "Zavison the Solitary",
+        "Zavison the Guardian"
+      ],
+      "japaneseName": "ザビソン Zabison",
+      "versionAdded": null
+    },
+    {
+      "id": 199,
+      "name": "Zeera",
+      "tier": "S",
+      "weapon": "Staff",
+      "attribute": "Remedy",
+      "species": "Beastfolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Zeera the Plant Lover",
+        "Zeera the Green Thumb",
+        "Zeera the Green Goddess"
+      ],
+      "japaneseName": "ジーラ Jīra",
+      "versionAdded": null
+    },
+    {
+      "id": 200,
+      "name": "Zenzoze",
+      "tier": "B",
+      "weapon": "Spear",
+      "attribute": "Darkness",
+      "species": "Beastfolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Zenzoze the Dusky",
+        "Zenzoze the Sable",
+        "Zenzoze the Obsidian"
+      ],
+      "japaneseName": "ゼンゾゼ Zenzoze",
+      "versionAdded": null
+    },
+    {
+      "id": 201,
+      "name": "Zerro",
+      "tier": "SS",
+      "weapon": "Staff",
+      "attribute": "Darkness",
+      "species": "Beastfolk",
+      "lambdaForm": 202,
+      "originalForm": null,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Zerro the Dark",
+        "Zerro the Force Field",
+        "Zerro the Ascendant"
+      ],
+      "japaneseName": "ゼロ Zero",
+      "versionAdded": null
+    },
+    {
+      "id": 202,
+      "name": "Zerro ^",
+      "tier": "Z",
+      "weapon": "Staff",
+      "attribute": "Darkness",
+      "species": "Beastfolk",
+      "lambdaForm": null,
+      "originalForm": 201,
+      "gender": "Female",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Recode DNA"
+      ],
+      "jobNames": null,
+      "japaneseName": "ゼロ・Λ Zero Λ",
+      "versionAdded": null
+    },
+    {
+      "id": 203,
+      "name": "Zuzu",
+      "tier": "S",
+      "weapon": "Sword",
+      "attribute": null,
+      "species": "Beastfolk",
+      "lambdaForm": null,
+      "originalForm": null,
+      "gender": "Male",
+      "artist": "Kimihiko Fujisaka",
+      "availability": [
+        "Pact of Truth",
+        "Pact of Fate (Energy)"
+      ],
+      "jobNames": [
+        "Zuzu the Shadow",
+        "Zuzu the Supersonic",
+        "Zuzu the Hypersonic"
+      ],
+      "japaneseName": "ズズ Zuzu",
+      "versionAdded": null
+    }
+  ]
+}
