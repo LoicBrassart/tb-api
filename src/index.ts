@@ -13,7 +13,7 @@ type Character = {
   lambdaForm: number | null;
   originalForm: number | null;
   gender: string;
-  artist: any;
+  artist: string | null;
   availability: string[];
   jobNames: any;
   japaneseName: string;
