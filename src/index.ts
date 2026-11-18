@@ -1,7 +1,9 @@
 import express from "express";
+import cors from "cors";
 import { characters } from "./fake.json";
 
 const app = express();
+app.use(cors());
 
 type Character = {
   id: number;
