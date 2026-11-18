@@ -1,10 +1,8 @@
 import express from "express";
-// récupérer personnages depuis le fichier JSON
 import { characters } from "./fake.json";
 
 const app = express();
 
-// On écrit le type Character
 type Character = {
   id: number;
   name: string;
@@ -22,10 +20,6 @@ type Character = {
   versionAdded: string | null;
 };
 
-// ajouter, modifier, suppriomer, lire/recuperer
-// CRUD: Create, Read, Update, Delete
-
-// Sur GET /characters : renvoyer tous les persos
 app.get("/characters", (req, res) => {
   const results = characters.map((char: Character) => {
     return {
@@ -36,10 +30,11 @@ app.get("/characters", (req, res) => {
   res.json(results);
 });
 
-// Sur GET /characters/1 : renvoyer le perso n°1
-app.get("/characters/1", (req, res) => {
+// :machin === parametre de route nommé "machin"
+app.get("/characters/:id", (req, res) => {
   const results = characters.filter((char: Character) => {
-    return char.id === 1;
+    // req.params.id = valeur de "machin"
+    return char.id === Number(req.params.id);
   });
   res.json(results);
 });
