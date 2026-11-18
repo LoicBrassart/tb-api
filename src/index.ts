@@ -38,7 +38,7 @@ app.get("/characters/:id", (req, res) => {
     // req.params.id = valeur de "machin"
     return char.id === Number(req.params.id);
   });
-  res.json(results);
+  res.json(results[0]);
 });
 
 app.listen(3000, () => {
